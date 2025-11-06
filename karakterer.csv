@@ -1,0 +1,100 @@
+Start,End,Scale,Symbol,Numeral,Label_da,Label_en
+1788,1805,Latin scale,Laudabilis præ ceteris,NA,Laudabilis præ ceteris,exceptional / laudable beyond others
+1788,1805,Latin scale,Laudabilis,NA,Laudabilis,laudable
+1788,1805,Latin scale,Haud illaudabilis,NA,Haud illaudabilis,not bad / fairly good
+1788,1805,Latin scale,Non contemnendus,NA,Non contemnendus,passable
+1788,1805,Latin scale,0,0,0,fail
+1805,1845,Ørsted (first version),Ug,8,udmærket godt,excellently good
+1805,1845,Ørsted (first version),Mg,7,meget godt,very good
+1805,1845,Ørsted (first version),G,5,godt,good
+1805,1845,Ørsted (first version),Tg,1,temmelig godt,pretty good
+1805,1845,Ørsted (first version),Mdl,-7,mådeligt,all right
+1805,1845,Ørsted (first version),Slet,-23,slet,bad
+1845,1871,Ørsted (numeral version),Ug,8,udmærket godt,excellently good
+1845,1871,Ørsted (numeral version),Mg,7,meget godt,very good
+1845,1871,Ørsted (numeral version),G,5,godt,good
+1845,1871,Ørsted (numeral version),Tg,1,temmelig godt,pretty good
+1845,1871,Ørsted (numeral version),Mdl,-7,mådeligt,all right
+1845,1871,Ørsted (numeral version),Slet,-23,slet,bad
+1871,1903,Extended Ørsted (1871),Ug,8,udmærket godt,excellently good
+1871,1903,Extended Ørsted (1871),Ug?,7.67,udmærket godt (minus),excellently good (minus)
+1871,1903,Extended Ørsted (1871),Mg+,7.33,meget godt (plus),very good (plus)
+1871,1903,Extended Ørsted (1871),Mg,7,meget godt,very good
+1871,1903,Extended Ørsted (1871),Mg?,6.33,meget godt (minus),very good (minus)
+1871,1903,Extended Ørsted (1871),G+,5.67,godt (plus),good (plus)
+1871,1903,Extended Ørsted (1871),G,5,godt,good
+1871,1903,Extended Ørsted (1871),G?,3.67,godt (minus),good (minus)
+1871,1903,Extended Ørsted (1871),Tg+,3.33,temmelig godt (plus),pretty good (plus)
+1871,1903,Extended Ørsted (1871),Tg,1,temmelig godt,pretty good
+1871,1903,Extended Ørsted (1871),Tg?,-1.67,temmelig godt (minus),pretty good (minus)
+1871,1903,Extended Ørsted (1871),Mdl+,-4.33,mådeligt (plus),all right (plus)
+1871,1903,Extended Ørsted (1871),Mdl,-7,mådeligt,all right
+1871,1903,Extended Ørsted (1871),Mdl?,-12.33,mådeligt (minus),all right (minus)
+1871,1903,Extended Ørsted (1871),Slet+,-17.67,slet (plus),bad (plus)
+1871,1903,Extended Ørsted (1871),Slet,-23,slet,bad
+1903,1911,Numeral scale (1903),8,8,(top),top
+1903,1911,Numeral scale (1903),6,6,,
+1903,1911,Numeral scale (1903),4,4,passing threshold,passing threshold
+1903,1911,Numeral scale (1903),2,2,,
+1903,1911,Numeral scale (1903),0,0,fail,fail
+1911,1919,Numeral scale (1911),6,6,top,top
+1911,1919,Numeral scale (1911),5,5,,
+1911,1919,Numeral scale (1911),4,4,minimum passing,minimum passing
+1911,1919,Numeral scale (1911),3,3,,
+1911,1919,Numeral scale (1911),2,2,,
+1911,1919,Numeral scale (1911),0,0,fail,fail
+1943,1963,Modified extended Ørsted (1943),Ug,15,udmærket godt,excellently good
+1943,1963,Modified extended Ørsted (1943),Ug?,14.67,udmærket godt (minus),excellently good (minus)
+1943,1963,Modified extended Ørsted (1943),Mg+,14.33,meget godt (plus),very good (plus)
+1943,1963,Modified extended Ørsted (1943),Mg,14,meget godt,very good
+1943,1963,Modified extended Ørsted (1943),Mg?,13.33,meget godt (minus),very good (minus)
+1943,1963,Modified extended Ørsted (1943),G+,12.67,godt (plus),good (plus)
+1943,1963,Modified extended Ørsted (1943),G,12,godt,good
+1943,1963,Modified extended Ørsted (1943),G?,10.67,godt (minus),good (minus)
+1943,1963,Modified extended Ørsted (1943),Tg+,9.33,temmelig godt (plus),pretty good (plus)
+1943,1963,Modified extended Ørsted (1943),Tg,8,temmelig godt,pretty good
+1943,1963,Modified extended Ørsted (1943),Tg?,5.33,temmelig godt (minus),pretty good (minus)
+1943,1963,Modified extended Ørsted (1943),Mdl+,2.67,mådeligt (plus),all right (plus)
+1943,1963,Modified extended Ørsted (1943),Mdl,0,mådeligt,all right
+1943,1963,Modified extended Ørsted (1943),Slet,-16,slet,bad
+1963,2006,13-scale,13,13,exceptionelt selvstændig & udmærket,exceptionally independent & excellent
+1963,2006,13-scale,11,11,udmærket og selvstændig,independent & excellent
+1963,2006,13-scale,10,10,fortrinlig / præcise,excellent
+1963,2006,13-scale,9,9,"god, lidt over middel",good (slightly above average)
+1963,2006,13-scale,8,8,middelgode,average
+1963,2006,13-scale,7,7,ret jævne,slightly below average
+1963,2006,13-scale,6,6,netop acceptable,just acceptable
+1963,2006,13-scale,5,5,usikre / utilfredsstillende,hesitant / unsatisfactory
+1963,2006,13-scale,3,3,meget usikre / mangelfulde,very hesitant / insufficient
+1963,2006,13-scale,0,0,helt uacceptabel,completely unacceptable
+2006,2025,7-trins-skala (12-skala),12,12,fremragende,excellent
+2006,2025,7-trins-skala (12-skala),10,10,fortrinlig,very good
+2006,2025,7-trins-skala (12-skala),7,7,god,good
+2006,2025,7-trins-skala (12-skala),4,4,jævn,fair
+2006,2025,7-trins-skala (12-skala),2,2,tilstrækkelig,adequate
+2006,2025,7-trins-skala (12-skala),0,0,utilstrækkelig,inadequate
+2006,2025,7-trins-skala (12-skala),?3,-3,helt uacceptabel,unacceptable
+2026,Nutid,Nye forslag,0,0,,
+2026,Nutid,Nye forslag,1,1,,
+2026,Nutid,Nye forslag,2,2,,
+2026,Nutid,Nye forslag,4,4,,
+2026,Nutid,Nye forslag,6,6,,
+2026,Nutid,Nye forslag,8,8,,
+2026,Nutid,Nye forslag,10,10,,
+2026,Nutid,Nye forslag,12,12,,
+1919,1943,Extended Ørsted (1871),Ug,8,udmærket godt,excellently good
+1919,1943,Extended Ørsted (1871),Ug?,7.67,udmærket godt (minus),excellently good (minus)
+1919,1943,Extended Ørsted (1871),Mg+,7.33,meget godt (plus),very good (plus)
+1919,1943,Extended Ørsted (1871),Mg,7,meget godt,very good
+1919,1943,Extended Ørsted (1871),Mg?,6.33,meget godt (minus),very good (minus)
+1919,1943,Extended Ørsted (1871),G+,5.67,godt (plus),good (plus)
+1919,1943,Extended Ørsted (1871),G,5,godt,good
+1919,1943,Extended Ørsted (1871),G?,3.67,godt (minus),good (minus)
+1919,1943,Extended Ørsted (1871),Tg+,3.33,temmelig godt (plus),pretty good (plus)
+1919,1943,Extended Ørsted (1871),Tg,1,temmelig godt,pretty good
+1919,1943,Extended Ørsted (1871),Tg?,-1.67,temmelig godt (minus),pretty good (minus)
+1919,1943,Extended Ørsted (1871),Mdl+,-4.33,mådeligt (plus),all right (plus)
+1919,1943,Extended Ørsted (1871),Mdl,-7,mådeligt,all right
+1919,1943,Extended Ørsted (1871),Mdl?,-12.33,mådeligt (minus),all right (minus)
+1919,1943,Extended Ørsted (1871),Slet+,-17.67,slet (plus),bad (plus)
+1919,1943,Extended Ørsted (1871),Slet,-23,slet,bad
